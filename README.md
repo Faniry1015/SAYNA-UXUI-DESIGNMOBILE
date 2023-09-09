@@ -13,4 +13,5 @@
 
 <h2>Links to the project</h2>
 
-🔗 Link : https://www.figma.com/file/l2eRUHlLil3XyJIE1xoTKR/SAYNA-UXUI-DESIGNMOBILE?type=design&mode=design&t=k75cgyagf7YY7gt0-1
+🔗 Link: https://www.figma.com/file/l2eRUHlLil3XyJIE1xoTKR/SAYNA-UXUI-DESIGNMOBILE?type=design&node-id=0%3A1&mode=design&t=uIqfSy1WjFElWM5M-1 <br>
+🤳 Link to prototype: https://www.figma.com/proto/l2eRUHlLil3XyJIE1xoTKR/SAYNA-UXUI-DESIGNMOBILE?type=design&node-id=8-3&t=beG9jSuPWiYgfgtL-1&scaling=scale-down&page-id=0%3A1&mode=design
