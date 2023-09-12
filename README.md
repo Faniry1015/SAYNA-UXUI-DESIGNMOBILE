@@ -7,6 +7,7 @@
 
 <h2>Derivelables : </h2>
 <ul>
+  <li>project file (.fig);</li>
   <li>PDF and PNG files ;</li>
   <li>Link to the figma project.</li>
 </ul>
